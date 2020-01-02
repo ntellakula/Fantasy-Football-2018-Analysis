@@ -1,0 +1,5 @@
+2018 Draft Trends
+
+Folder that contains 2 files:
+  10 Guys One Cup Draft Trends, the Jupyter Notebook
+  ff draft trends, the raw script without the Notebook formatting. Just the code

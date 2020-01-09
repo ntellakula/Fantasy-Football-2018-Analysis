@@ -1,0 +1,6 @@
+2018 MCMC
+
+Folder that contains 3 files:
+	The description text file
+	Jupyter Notebook that contains the graphs, data frames, code in notebook format
+	The raw code of the MCMC

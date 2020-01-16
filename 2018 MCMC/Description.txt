@@ -1,6 +1,8 @@
 2018 MCMC
 
-Folder that contains 3 files:
+Folder that contains 5 files:
 	The description text file
 	Jupyter Notebook that contains the graphs, data frames, code in notebook format
 	The raw code of the MCMC
+	The original R script that performs the same function. More manual coding
+	Excel sheet that visualizes the final rankings based on the MCMC simulation output.
